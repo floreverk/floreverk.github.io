@@ -1,6 +1,5 @@
 .size {
     margin: auto;
-    max-width: 80vw;
 }
 
 .container {
@@ -14,7 +13,6 @@
 .header {
     display: grid;
     grid-template-columns: 40% 60%;
-    max-width: 30vw;
 }
 
 .profile {
