@@ -14,7 +14,8 @@
 .header {
     display: grid;
     grid-template-columns: 40% 60%;
-    max-width: 8cm;
+    max-width: 10cm;
+    margin: auto;
 }
 
 .profile {
