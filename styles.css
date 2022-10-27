@@ -224,6 +224,26 @@
     border: 1px solid black;
 }
 
+.dottfill {
+    height: 10px;
+    width: 10px;
+    background-color: darkcyan;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
+.dott {
+    height: 10px;
+    width: 10px;
+    background-color: beige;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
 .itinfo {
     padding: 10px;
     margin-top: 5px;
