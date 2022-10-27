@@ -13,6 +13,7 @@
 .header {
     display: grid;
     grid-template-columns: 40% 60%;
+    max-width: 6cm;
 }
 
 .profile {
