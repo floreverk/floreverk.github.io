@@ -283,8 +283,12 @@
 .other {
     display: grid;
     grid-template-columns: 50% 50%;
-<<<<<<< HEAD
 }
-=======
+
+p {
+    font-family: 'Dosis', sans-serif;
 }
->>>>>>> 72f3d74128e3995fc1286282c76cf6301477106e
+
+a {
+    color: #444;
+}
